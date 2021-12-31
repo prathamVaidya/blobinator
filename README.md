@@ -4,6 +4,8 @@ Blobinator is a jQuery Plugin which can create Animated Blobs very easily.
 
 ![Demo Photo](https://github.com/prathamVaidya/blobinator/blob/main/demo.gif?raw=true)
 
+[See Demo](https://prathamvaidya.github.io/blobinator/demo.html)
+
 Example:
 
 Include the Blobinator Library and create a div like this in you parent container:
