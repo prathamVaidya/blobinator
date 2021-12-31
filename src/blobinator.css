@@ -1,0 +1,15 @@
+/* This CSS file is not required for Blobinator to work. The CSS ode will automatically be included by JS File*/
+
+.blobinator {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+.blobinator svg {
+  position: absolute;
+  width: 300px;
+  opacity: 0.6;
+}
